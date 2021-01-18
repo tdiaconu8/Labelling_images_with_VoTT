@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "66a7fba07333733c41c043ce3e68e492",
+        "name": "2018-03-09_09.07.jpeg",
+        "path": "file:C:/Users/Thomas/Desktop/Cours%20ing%C3%A9nieur/Projet%20de%20semestre/photos/testset/2018-03-09_09.07.jpeg",
+        "size": {
+            "width": 1900,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nwifi-E2Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "bags"
+            ],
+            "boundingBox": {
+                "height": 324.0460975829245,
+                "width": 517.4781540316592,
+                "left": 409.11736178467504,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 409.11736178467504,
+                    "y": 0
+                },
+                {
+                    "x": 926.5955158163342,
+                    "y": 0
+                },
+                {
+                    "x": 926.5955158163342,
+                    "y": 324.0460975829245
+                },
+                {
+                    "x": 409.11736178467504,
+                    "y": 324.0460975829245
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

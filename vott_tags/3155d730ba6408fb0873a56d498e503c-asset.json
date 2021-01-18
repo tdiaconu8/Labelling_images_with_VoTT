@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "3155d730ba6408fb0873a56d498e503c",
+        "name": "2018-02-13_06.49.jpeg",
+        "path": "file:C:/Users/Thomas/Desktop/Cours%20ing%C3%A9nieur/Projet%20de%20semestre/photos/testset/2018-02-13_06.49.jpeg",
+        "size": {
+            "width": 1900,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CgmgYeQn1",
+            "type": "RECTANGLE",
+            "tags": [
+                "wood"
+            ],
+            "boundingBox": {
+                "height": 311.7803934766925,
+                "width": 414.4801293068437,
+                "left": 228.0718336483932,
+                "top": 768.2196065233074
+            },
+            "points": [
+                {
+                    "x": 228.0718336483932,
+                    "y": 768.2196065233074
+                },
+                {
+                    "x": 642.551962955237,
+                    "y": 768.2196065233074
+                },
+                {
+                    "x": 642.551962955237,
+                    "y": 1080
+                },
+                {
+                    "x": 228.0718336483932,
+                    "y": 1080
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "d5091fcff5ea8348bbc76f4cce476698",
+        "name": "2018-03-14_06.05.jpeg",
+        "path": "file:C:/Users/Thomas/Desktop/Cours%20ing%C3%A9nieur/Projet%20de%20semestre/photos/testset/2018-03-14_06.05.jpeg",
+        "size": {
+            "width": 1900,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gTZyEuQ9y",
+            "type": "RECTANGLE",
+            "tags": [
+                "bags"
+            ],
+            "boundingBox": {
+                "height": 496.8736751413183,
+                "width": 446.7119189168965,
+                "left": 395.84872433563436,
+                "top": 380.07339008839057
+            },
+            "points": [
+                {
+                    "x": 395.84872433563436,
+                    "y": 380.07339008839057
+                },
+                {
+                    "x": 842.5606432525309,
+                    "y": 380.07339008839057
+                },
+                {
+                    "x": 842.5606432525309,
+                    "y": 876.9470652297089
+                },
+                {
+                    "x": 395.84872433563436,
+                    "y": 876.9470652297089
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

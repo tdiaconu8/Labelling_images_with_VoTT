@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "03a849a81b89fefc1b9f0cb3f2a5bbe4",
+        "name": "xxx_xxx_EG946PQ_xxx(395).jpeg",
+        "path": "file:C:/Users/Thomas/Desktop/Cours%20ing%C3%A9nieur/Projet%20de%20semestre/photos/testset/xxx_xxx_EG946PQ_xxx(395).jpeg",
+        "size": {
+            "width": 1920,
+            "height": 1280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hlMp8_eyz",
+            "type": "RECTANGLE",
+            "tags": [
+                "glass"
+            ],
+            "boundingBox": {
+                "height": 62.60257459970888,
+                "width": 65.55180043646945,
+                "left": 744.1630167919495,
+                "top": 954.0728200054585
+            },
+            "points": [
+                {
+                    "x": 744.1630167919495,
+                    "y": 954.0728200054585
+                },
+                {
+                    "x": 809.714817228419,
+                    "y": 954.0728200054585
+                },
+                {
+                    "x": 809.714817228419,
+                    "y": 1016.6753946051674
+                },
+                {
+                    "x": 744.1630167919495,
+                    "y": 1016.6753946051674
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
